@@ -1,0 +1,8 @@
+version :   Python 3.8.5
+            Flask 1.1.1
+            Werkzeug 0.16.1
+            virtualenv 20.0.17
+
+install dependencies :
+
+$> sudo apt-get install python-virtualenv
